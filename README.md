@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Mete</h1>
-<h3 align="center">Türkiye'den, mikroelektronik, gömülü sistem mimarileri (Embedded Linux/Buildroot), tersine mühendislik ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. **Omfo Balkan Microelectronics* organizasyonunun kurucusu ve **DepremVar** projesinin geliştiricisiyim.</h3>
+<h3 align="center">Türkiye'den, mikroelektronik, gömülü sistem mimarileri (Embedded Linux/Buildroot), tersine mühendislik ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. Omfo Balkan Microelectronics organizasyonunun kurucusu ve 
+ DepremVar projesinin geliştiricisiyim.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
