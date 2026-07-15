@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://instagram.com/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meteonelge0127" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meteonelge0127" height="30" width="40" /></a>
- <a href="https://www.github.com/omfobalkanmicroelectronics" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/304136742?s=200&v=4" alt="OBM" height="30" width="40" /></a>
+ <a href="https://www.github.com/omfobalkanmicroelectronics" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/304136742?s=200&v=4" alt="OBM" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">💼 Çalışmalarım & Projelerim:</h3>
