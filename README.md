@@ -11,12 +11,12 @@
 
 <h3 align="left">💼 Çalışmalarım & Projelerim:</h3>
 <ul>
-  <li>🔭 **Şu Anda Üzerinde Çalıştığım Proje:** <a href="https://github.com/omfobalkanmicroelectronics/hackprom8970">HackProm8970</a> <i>(Neta Kablo TV Kutularını Gömülü Linux'a Dönüştürme)</i></li>
-  <li>👯 **Ortak Çalışmak İstediğim Alanlar:** Gömülü Sistemler, Mikroelektronik ve IoT Donanım Projeleri</li>
-  <li>🤝 **Destek Aradığım Konu:** <a>DepremVar</a> projesinin veri ağını ve coğrafi entegrasyonunu genişletmek</li>
-  <li>🌱 **Şu Anda Kendimi Geliştirdiğim Konular:** <code>LVGL v9</code> Grafik Motoru, <code>Buildroot</code> ile Gömülü Linux Kernel Derleme ve <code>C-SKY</code> İşlemci Mimarisi</li>
-  <li>💬 **Bana Sorabileceğiniz Konular:** Tersine Mühendislik, <code>CH341A</code> ile SPI Flash Programlama, <code>C/C++</code> Donanım Kodlama ve Veri Analizi</li>
-  <li>⚡ **Eğlenceli Gerçek:** 2019'dan beri evde duran emektar Kablo TV kutusuna kendi yazdığım Linux arayüzünü yüklemeye çalışacak kadar donanım hacklemeyi seviyorum!</li>
+  <li>🔭 Şu Anda Üzerinde Çalıştığım Proje: <a href="https://github.com/omfobalkanmicroelectronics/hackprom8970">HackProm8970</a> <i>(Neta Kablo TV Kutularını Gömülü Linux'a Dönüştürme)</i></li>
+  <li>👯 Ortak Çalışmak İstediğim Alanlar: Gömülü Sistemler, Mikroelektronik ve IoT Donanım Projeleri</li>
+  <li>🤝 Destek Aradığım Konu: <a>DepremVar</a> projesinin veri ağını ve coğrafi entegrasyonunu genişletmek</li>
+  <li>🌱 Şu Anda Kendimi Geliştirdiğim Konular: <code>LVGL v9</code> Grafik Motoru, <code>Buildroot</code> ile Gömülü Linux Kernel Derleme ve <code>C-SKY</code> İşlemci Mimarisi</li>
+  <li>💬 Bana Sorabileceğiniz Konular:Tersine Mühendislik, <code>CH341A</code> ile SPI Flash Programlama, <code>C/C++</code> Donanım Kodlama ve Veri Analizi</li>
+  <li>⚡ ğlenceli Gerçek:** 2019'dan beri evde duran emektar Kablo TV kutusuna kendi yazdığım Linux arayüzünü yüklemeye çalışacak kadar donanım hacklemeyi seviyorum!</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
