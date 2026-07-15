@@ -6,12 +6,11 @@ Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühend
 
 ## 🛠️ Teknik Yetkinlikler & Teknolojiler
 
-* 💻 **Programlama Dilleri:** `C` | `C++` | `Python` | `Bash / Shell`
-* 🐧 **Gömülü Sistemler & İşletim Sistemleri:** `Embedded Linux` | `Ubuntu WSL` | `Buildroot` | `LVGL UI`
-* 🔌 **Donanım Laboratuvar Araçları:** `CH341A Programmer` | `SPI / I2C / UART Bus Protocols`
-* 🛠️ **Geliştirme Ortamı:** `Visual Studio Code` | `Git & GitHub`
+### 💻 Programlama Dilleri
+<img src="https://githubusercontent.com" alt="C" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="C++" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Python" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Bash" width="45" height="45"/>
 
-
+### 🐧 Geliştirme Araçları & Platformlar
+<img src="https://githubusercontent.com" alt="GitHub" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="VS Code" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/>
 
 ---
 
