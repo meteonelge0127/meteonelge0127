@@ -7,13 +7,13 @@ Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühend
 ## 🛠️ Teknik Yetkinlikler & Teknolojiler
 
 ### 💻 Programlama Dilleri
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://githubusercontent.com" alt="C" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Bash" width="40" height="40"/>
 
 ### 🐧 Gömülü Sistemler & İşletim Sistemleri
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://githubusercontent.com" alt="Linux" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Ubuntu" width="40" height="40"/>
 
-### 🔌 Donanım Lab Araçları & Protokoller
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+### 🔌 Geliştirme Araçları
+<img src="https://githubusercontent.com" alt="VS Code" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
 
 
 
