@@ -1,32 +1,21 @@
-# Selamlar, Ben Mete! 👋 
+<h1 align="center">Merhaba 👋, Ben Mete</h1>
+<h3 align="center">Türkiye'den, mikroelektronik, gömülü sistem mimarileri (Embedded Linux/Buildroot), tersine mühendislik ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. **[Omfo Balkan Microelectronics](https://github.com)** organizasyonunun kurucusu ve **DepremVar** projesinin geliştiricisiyim.</h3>
 
-Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühendislik (Reverse Engineering) ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. **[Omfo Balkan Microelectronics](https://github.com/omfobalkanmicroelectronics)** organizasyonunun kurucusuyum.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meteonelge0127" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meteonelge0127" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">💼 Çalışmalarım & Projelerim:</h3>
+<ul>
+  <li>🔭 **Şu Anda Üzerinde Çalıştığım Proje:** <a href="https://github.com">HackProm8970</a> <i>(Neta Kablo TV Kutularını Gömülü Linux'a Dönüştürme)</i></li>
+  <li>👯 **Ortak Çalışmak İstediğim Alanlar:** Gömülü Sistemler, Mikroelektronik ve IoT Donanım Projeleri</li>
+  <li>🤝 **Destek Aradığım Konu:** <a href="https://github.com">DepremVar</a> projesinin veri ağını ve coğrafi entegrasyonunu genişletmek</li>
+  <li>🌱 **Şu Anda Kendimi Geliştirdiğim Konular:** <code>LVGL v9</code> Grafik Motoru, <code>Buildroot</code> ile Gömülü Linux Kernel Derleme ve <code>C-SKY</code> İşlemci Mimarisi</li>
+  <li>💬 **Bana Sorabileceğiniz Konular:** Tersine Mühendislik, <code>CH341A</code> ile SPI Flash Programlama, <code>C/C++</code> Donanım Kodlama ve Veri Analizi</li>
+  <li>⚡ **Eğlenceli Gerçek:** 2019'dan beri evde duran emektar Kablo TV kutusuna kendi yazdığım Linux arayüzünü yüklemeye çalışacak kadar donanım hacklemeyi seviyorum!</li>
+</ul>
 
-## 🛠️ Teknik Yetkinlikler & Teknolojiler
-
-### 💻 Programlama Dilleri
-:blue_square: **C** &nbsp;&nbsp; | &nbsp;&nbsp; :cyan_square: **C++** &nbsp;&nbsp; | &nbsp;&nbsp; :snake: **Python** &nbsp;&nbsp; | &nbsp;&nbsp; :waving_black_flag: **Bash / Shell**
-
-### 🐧 Gömülü Sistemler & İşletim Sistemleri
-:penguin: **Embedded Linux** &nbsp;&nbsp; | &nbsp;&nbsp; :orange_infrastructure: **Buildroot Factory** &nbsp;&nbsp; | &nbsp;&nbsp; :desktop_computer: **Ubuntu WSL** &nbsp;&nbsp; | &nbsp;&nbsp; :art: **LVGL UI v9**
-
-### 🔌 Donanım Lab Araçları & Geliştirme
-:electric_plug: **CH341A SPI Flash Programmer** &nbsp;&nbsp; | &nbsp;&nbsp; :pager: **SPI / I2C / UART Bus Protocols** &nbsp;&nbsp; | &nbsp;&nbsp; :m: **VS Code & Git**
-
-
----
-
-## 🚀 Üzerinde Çalıştığım Projeler
-
-### 🚨 DepremVar
-Toplumsal fayda sağlamak amacıyla geliştirilmiş, anlık deprem verilerini işleyen, analiz eden ve kullanıcılara kriz anında kararlı veri akışı sunan bağımsız bir yazılım projesidir.
-
-### 📺 HackProm8970 (Neta HD 8950 / 8970 Modifikasyonu)
-National Chip (`GX3201H / GX3211` C-SKY mimarisi) işlemcili Kablo TV set-top box cihazlarını gömülü Linux (`Buildroot`) sistemlerine dönüştürme çalışmasıdır. **CH341A** programlayıcı ile donanımsal müdahaleler ve **LVGL v9** ile bilgisayar ortamında simüle edilen sıfırdan televizyon kullanıcı arayüzü (UI) inşasını içerir.
-
----
-
-## 📫 İletişim
-* 💬 Mikroelektronik, donanım hackleme, gömülü Linux ve veri odaklı projeler hakkında konuşmaya her zaman açığım!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
