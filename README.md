@@ -5,13 +5,14 @@
 <p align="left">
 <a href="https://instagram.com/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meteonelge0127" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/meteonelge0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meteonelge0127" height="30" width="40" /></a>
+ <a href="https://www.github.com/omfobalkanmicroelectronics" target="blank"><img align="center" src="[https://avatars.githubusercontent.com/u/304136742?s=200&v=4]" alt="OmfoBalkanMicroElectronics" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💼 Çalışmalarım & Projelerim:</h3>
 <ul>
-  <li>🔭 **Şu Anda Üzerinde Çalıştığım Proje:** <a href="https://github.com">HackProm8970</a> <i>(Neta Kablo TV Kutularını Gömülü Linux'a Dönüştürme)</i></li>
+  <li>🔭 **Şu Anda Üzerinde Çalıştığım Proje:** <a href="https://github.com/omfobalkanmicroelectronics/hackprom8970">HackProm8970</a> <i>(Neta Kablo TV Kutularını Gömülü Linux'a Dönüştürme)</i></li>
   <li>👯 **Ortak Çalışmak İstediğim Alanlar:** Gömülü Sistemler, Mikroelektronik ve IoT Donanım Projeleri</li>
-  <li>🤝 **Destek Aradığım Konu:** <a href="https://github.com">DepremVar</a> projesinin veri ağını ve coğrafi entegrasyonunu genişletmek</li>
+  <li>🤝 **Destek Aradığım Konu:** <a>DepremVar</a> projesinin veri ağını ve coğrafi entegrasyonunu genişletmek</li>
   <li>🌱 **Şu Anda Kendimi Geliştirdiğim Konular:** <code>LVGL v9</code> Grafik Motoru, <code>Buildroot</code> ile Gömülü Linux Kernel Derleme ve <code>C-SKY</code> İşlemci Mimarisi</li>
   <li>💬 **Bana Sorabileceğiniz Konular:** Tersine Mühendislik, <code>CH341A</code> ile SPI Flash Programlama, <code>C/C++</code> Donanım Kodlama ve Veri Analizi</li>
   <li>⚡ **Eğlenceli Gerçek:** 2019'dan beri evde duran emektar Kablo TV kutusuna kendi yazdığım Linux arayüzünü yüklemeye çalışacak kadar donanım hacklemeyi seviyorum!</li>
