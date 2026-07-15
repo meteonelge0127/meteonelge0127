@@ -7,22 +7,14 @@ Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühend
 ## 🛠️ Teknik Yetkinlikler & Teknolojiler
 
 ### 💻 Programlama Dilleri
-![C](https://shields.io)
-![C++](https://shields.io)
-![Python](https://shields.io)
-![Bash/Shell](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### 🐧 Gömülü Sistemler & İşletim Sistemleri
-![Linux](https://shields.io)
-![Ubuntu WSL](https://shields.io)
-![Buildroot](https://shields.io)
-![LVGL](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ### 🔌 Donanım Lab Araçları & Protokoller
-![CH341A](https://shields.io)
-![SPI / I2C / UART](https://shields.io)
-![VS Code](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
 
 
 ---
