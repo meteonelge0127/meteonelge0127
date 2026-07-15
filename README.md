@@ -26,5 +26,4 @@ National Chip (`GX3201H / GX3211` C-SKY mimarisi) işlemcili Kablo TV set-top bo
 ---
 
 ## 📫 İletişim
-* 🌐 **Geliştirici Organizasyon Sayfamız:** [://github.com]([https://github.com](https://github.com/omfobalkanmicroelectronics)
 * 💬 Mikroelektronik, donanım hackleme, gömülü Linux ve veri odaklı projeler hakkında konuşmaya her zaman açığım!
