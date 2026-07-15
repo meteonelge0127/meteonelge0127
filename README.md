@@ -7,10 +7,14 @@ Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühend
 ## 🛠️ Teknik Yetkinlikler & Teknolojiler
 
 ### 💻 Programlama Dilleri
-<img src="https://githubusercontent.com" alt="C" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="C++" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Python" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Bash" width="45" height="45"/>
+:blue_square: **C** &nbsp;&nbsp; | &nbsp;&nbsp; :cyan_square: **C++** &nbsp;&nbsp; | &nbsp;&nbsp; :snake: **Python** &nbsp;&nbsp; | &nbsp;&nbsp; :waving_black_flag: **Bash / Shell**
 
-### 🐧 Geliştirme Araçları & Platformlar
-<img src="https://githubusercontent.com" alt="GitHub" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="VS Code" width="45" height="45"/> &nbsp; <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/>
+### 🐧 Gömülü Sistemler & İşletim Sistemleri
+:penguin: **Embedded Linux** &nbsp;&nbsp; | &nbsp;&nbsp; :orange_infrastructure: **Buildroot Factory** &nbsp;&nbsp; | &nbsp;&nbsp; :desktop_computer: **Ubuntu WSL** &nbsp;&nbsp; | &nbsp;&nbsp; :art: **LVGL UI v9**
+
+### 🔌 Donanım Lab Araçları & Geliştirme
+:electric_plug: **CH341A SPI Flash Programmer** &nbsp;&nbsp; | &nbsp;&nbsp; :pager: **SPI / I2C / UART Bus Protocols** &nbsp;&nbsp; | &nbsp;&nbsp; :m: **VS Code & Git**
+
 
 ---
 
