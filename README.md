@@ -1,19 +1,15 @@
 # Selamlar, Ben Mete! 👋 
 
-Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühendislik (Reverse Engineering) ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. **[Omfo Balkan Microelectronics](https://github.com)** organizasyonunun kurucusuyum.
+Mikroelektronik, gömülü sistem mimarileri (Embedded Systems), tersine mühendislik (Reverse Engineering) ve afet yönetim sistemleri üzerine odaklanmış bir donanım & yazılım geliştiricisiyim. **[Omfo Balkan Microelectronics](https://github.com/omfobalkanmicroelectronics)** organizasyonunun kurucusuyum.
 
 ---
 
 ## 🛠️ Teknik Yetkinlikler & Teknolojiler
 
-### 💻 Programlama Dilleri
-<img src="https://githubusercontent.com" alt="C" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="C++" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Bash" width="40" height="40"/>
-
-### 🐧 Gömülü Sistemler & İşletim Sistemleri
-<img src="https://githubusercontent.com" alt="Linux" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Ubuntu" width="40" height="40"/>
-
-### 🔌 Geliştirme Araçları
-<img src="https://githubusercontent.com" alt="VS Code" width="40" height="40"/> &nbsp; <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
+* 💻 **Programlama Dilleri:** `C` | `C++` | `Python` | `Bash / Shell`
+* 🐧 **Gömülü Sistemler & İşletim Sistemleri:** `Embedded Linux` | `Ubuntu WSL` | `Buildroot` | `LVGL UI`
+* 🔌 **Donanım Laboratuvar Araçları:** `CH341A Programmer` | `SPI / I2C / UART Bus Protocols`
+* 🛠️ **Geliştirme Ortamı:** `Visual Studio Code` | `Git & GitHub`
 
 
 
@@ -30,5 +26,5 @@ National Chip (`GX3201H / GX3211` C-SKY mimarisi) işlemcili Kablo TV set-top bo
 ---
 
 ## 📫 İletişim
-* 🌐 **Geliştirici Organizasyon Sayfamız:** [://github.com](https://github.com)
+* 🌐 **Geliştirici Organizasyon Sayfamız:** [://github.com]([https://github.com](https://github.com/omfobalkanmicroelectronics)
 * 💬 Mikroelektronik, donanım hackleme, gömülü Linux ve veri odaklı projeler hakkında konuşmaya her zaman açığım!
